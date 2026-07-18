@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/Manish6232/DSA-Streaks/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Manish6232/DSA-Streaks/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Manish6232/DSA-Streaks/tree/master/1331-rank-transform-of-an-array) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/Manish6232/DSA-Streaks/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Manish6232/DSA-Streaks/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manish6232/DSA-Streaks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -132,6 +134,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manish6232/DSA-Streaks/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
