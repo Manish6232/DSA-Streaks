@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manish6232/DSA-Streaks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manish6232/DSA-Streaks/tree/master/0075-sort-colors) |
 | [1260-shift-2d-grid](https://github.com/Manish6232/DSA-Streaks/tree/master/1260-shift-2d-grid) |
@@ -23,6 +24,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manish6232/DSA-Streaks/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manish6232/DSA-Streaks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manish6232/DSA-Streaks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -142,6 +144,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manish6232/DSA-Streaks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manish6232/DSA-Streaks/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manish6232/DSA-Streaks/tree/master/3867-sum-of-gcd-of-formed-pairs) |
