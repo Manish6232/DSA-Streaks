@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Manish6232/DSA-Streaks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manish6232/DSA-Streaks/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manish6232/DSA-Streaks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Manish6232/DSA-Streaks/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Manish6232/DSA-Streaks/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Manish6232/DSA-Streaks/tree/master/1301-number-of-paths-with-max-score) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manish6232/DSA-Streaks/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manish6232/DSA-Streaks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Manish6232/DSA-Streaks/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Manish6232/DSA-Streaks/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manish6232/DSA-Streaks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -122,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manish6232/DSA-Streaks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manish6232/DSA-Streaks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manish6232/DSA-Streaks/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Manish6232/DSA-Streaks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
