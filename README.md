@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Manish6232/DSA-Streaks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manish6232/DSA-Streaks/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/Manish6232/DSA-Streaks/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manish6232/DSA-Streaks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Manish6232/DSA-Streaks/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Manish6232/DSA-Streaks/tree/master/1288-remove-covered-intervals) |
