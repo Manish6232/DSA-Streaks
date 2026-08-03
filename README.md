@@ -247,4 +247,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Manish6232/DSA-Streaks/tree/master/1406-stone-game-iii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Manish6232/DSA-Streaks/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
