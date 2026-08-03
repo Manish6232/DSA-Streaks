@@ -10,6 +10,7 @@
 | [0485-max-consecutive-ones](https://github.com/Manish6232/DSA-Streaks/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Manish6232/DSA-Streaks/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manish6232/DSA-Streaks/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Manish6232/DSA-Streaks/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manish6232/DSA-Streaks/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Manish6232/DSA-Streaks/tree/master/1260-shift-2d-grid) |
@@ -78,12 +79,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manish6232/DSA-Streaks/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manish6232/DSA-Streaks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manish6232/DSA-Streaks/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manish6232/DSA-Streaks/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manish6232/DSA-Streaks/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manish6232/DSA-Streaks/tree/master/3312-sorted-gcd-pair-queries) |
@@ -166,6 +169,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manish6232/DSA-Streaks/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manish6232/DSA-Streaks/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Manish6232/DSA-Streaks/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
