@@ -15,6 +15,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Manish6232/DSA-Streaks/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Manish6232/DSA-Streaks/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manish6232/DSA-Streaks/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manish6232/DSA-Streaks/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Manish6232/DSA-Streaks/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Manish6232/DSA-Streaks/tree/master/1288-remove-covered-intervals) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Manish6232/DSA-Streaks/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manish6232/DSA-Streaks/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/Manish6232/DSA-Streaks/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manish6232/DSA-Streaks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manish6232/DSA-Streaks/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -90,6 +92,7 @@
 | [0239-sliding-window-maximum](https://github.com/Manish6232/DSA-Streaks/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Manish6232/DSA-Streaks/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manish6232/DSA-Streaks/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manish6232/DSA-Streaks/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manish6232/DSA-Streaks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manish6232/DSA-Streaks/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -222,6 +225,7 @@
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Manish6232/DSA-Streaks/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manish6232/DSA-Streaks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manish6232/DSA-Streaks/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
