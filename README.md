@@ -218,6 +218,7 @@
 | [0011-container-with-most-water](https://github.com/Manish6232/DSA-Streaks/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manish6232/DSA-Streaks/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/Manish6232/DSA-Streaks/tree/master/0234-palindrome-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manish6232/DSA-Streaks/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -237,6 +238,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Manish6232/DSA-Streaks/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manish6232/DSA-Streaks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -258,6 +260,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Manish6232/DSA-Streaks/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Manish6232/DSA-Streaks/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -297,4 +300,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manish6232/DSA-Streaks/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Manish6232/DSA-Streaks/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
