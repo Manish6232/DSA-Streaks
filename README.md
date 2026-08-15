@@ -41,6 +41,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manish6232/DSA-Streaks/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manish6232/DSA-Streaks/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Manish6232/DSA-Streaks/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manish6232/DSA-Streaks/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Manish6232/DSA-Streaks/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manish6232/DSA-Streaks/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -277,6 +278,7 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manish6232/DSA-Streaks/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manish6232/DSA-Streaks/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manish6232/DSA-Streaks/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
 |  |
 | ------- |
