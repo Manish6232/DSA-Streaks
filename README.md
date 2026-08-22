@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manish6232/DSA-Streaks/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Manish6232/DSA-Streaks/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Manish6232/DSA-Streaks/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/Manish6232/DSA-Streaks/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Manish6232/DSA-Streaks/tree/master/0486-predict-the-winner) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Manish6232/DSA-Streaks/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Manish6232/DSA-Streaks/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Manish6232/DSA-Streaks/tree/master/0724-find-pivot-index) |
