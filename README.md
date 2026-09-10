@@ -228,6 +228,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manish6232/DSA-Streaks/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Manish6232/DSA-Streaks/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Manish6232/DSA-Streaks/tree/master/3310-remove-methods-from-project) |
 ## Math
@@ -429,4 +430,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0523-continuous-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manish6232/DSA-Streaks/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manish6232/DSA-Streaks/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
