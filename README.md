@@ -10,6 +10,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Manish6232/DSA-Streaks/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Manish6232/DSA-Streaks/tree/master/0239-sliding-window-maximum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manish6232/DSA-Streaks/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Manish6232/DSA-Streaks/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Manish6232/DSA-Streaks/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0523-continuous-subarray-sum) |
@@ -347,6 +348,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manish6232/DSA-Streaks/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Manish6232/DSA-Streaks/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Manish6232/DSA-Streaks/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manish6232/DSA-Streaks/tree/master/0628-maximum-product-of-three-numbers) |
