@@ -106,6 +106,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Manish6232/DSA-Streaks/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Manish6232/DSA-Streaks/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Manish6232/DSA-Streaks/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Manish6232/DSA-Streaks/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Manish6232/DSA-Streaks/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -246,6 +247,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manish6232/DSA-Streaks/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Manish6232/DSA-Streaks/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Manish6232/DSA-Streaks/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Manish6232/DSA-Streaks/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -285,6 +287,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manish6232/DSA-Streaks/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manish6232/DSA-Streaks/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Manish6232/DSA-Streaks/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/Manish6232/DSA-Streaks/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -722,4 +725,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Manish6232/DSA-Streaks/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Manish6232/DSA-Streaks/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Manish6232/DSA-Streaks/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Manish6232/DSA-Streaks/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
